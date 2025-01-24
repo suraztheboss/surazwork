@@ -1,4 +1,4 @@
 # surazwork
 This is my first git repo.
 <br>
-Author - Suraz 
+Author - Suraz Bhurtel
